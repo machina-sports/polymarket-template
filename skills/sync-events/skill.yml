@@ -7,7 +7,7 @@ skill:
     - "data-acquisition"
     - "prediction-markets"
   status: "available"
-  domain: "https://github.com/machina-sports/machina-templates"
+  domain: "https://github.com/machina-sports/polymarket-template"
 
   references:
 
